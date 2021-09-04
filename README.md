@@ -6,6 +6,5 @@ Hi, I'm Chiara and currently a student of the University of Padua, Italy. I'm gr
 
 ## 💻 Skills
 
-## Statistics
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chguizz&theme=dracula" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chguizz&theme=dracula"/> --> 
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=chguizz&theme=dracula"/>
