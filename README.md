@@ -16,12 +16,12 @@ Hi, I'm Chiara, a student of the University of Padua (Italy). I'm graduating in 
 ![](https://img.shields.io/badge/Tool-pgAdmin-informational?style=flat&logoColor=white&color=00acd1)
 ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logoColor=white&color=00acd1)  
 
-![](https://img.shields.io/badge/AI-numpy-informational?style=flat&logoColor=white&color=00e093)
-![](https://img.shields.io/badge/AI-sklearn-informational?style=flat&logoColor=white&color=00e093)
-![](https://img.shields.io/badge/AI-Keras-informational?style=flat&logoColor=white&color=00e093)
-![](https://img.shields.io/badge/AI-TensorFlow-informational?style=flat&logoColor=white&color=00e093)
-![](https://img.shields.io/badge/AI-matplotlib-informational?style=flat&logoColor=white&color=00e093)
-![](https://img.shields.io/badge/AI-pandas-informational?style=flat&logoColor=white&color=00e093)
+![](https://img.shields.io/badge/AI-numpy-informational?style=flat&logoColor=white&color=00cc7f)
+![](https://img.shields.io/badge/AI-sklearn-informational?style=flat&logoColor=white&color=00cc7f)
+![](https://img.shields.io/badge/AI-Keras-informational?style=flat&logoColor=white&color=00cc7f)
+![](https://img.shields.io/badge/AI-TensorFlow-informational?style=flat&logoColor=white&color=00cc7f)
+![](https://img.shields.io/badge/AI-matplotlib-informational?style=flat&logoColor=white&color=00cc7f)
+![](https://img.shields.io/badge/AI-pandas-informational?style=flat&logoColor=white&color=00cc7f)
 
 ![](https://img.shields.io/badge/Tool-Android_Studio-informational?style=flat&logoColor=white&color=fffa36)
 ![](https://img.shields.io/badge/Tool-Visual_Studio-informational?style=flat&logoColor=white&color=fffa36)
