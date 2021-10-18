@@ -1,6 +1,6 @@
-<!-- <img src="https://github.com/chguizz/chguizz/blob/main/figures/myBanner_low.jpg"> -->
+ <img src="https://github.com/chguizz/chguizz/blob/main/banner.png">
 
-# Chiara Guizzaro
+<!-- # Chiara Guizzaro -->
 
 Hi, I'm Chiara, a student of the University of Padua (Italy). I'm graduating in the master's degree of Computer Engineering, Artificial intelligence and Robotics. I like challenging myself in solving different problems and learning new things.
 
