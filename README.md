@@ -24,6 +24,8 @@ Hi, I'm Chiara, a student of the University of Padua (Italy). I'm graduating in 
 ![](https://img.shields.io/badge/AI-OpenCV-informational?style=flat&logo=OpenCV&logoColor=white&color=00cc7f)
 ![](https://img.shields.io/badge/AI-matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=00cc7f)
 ![](https://img.shields.io/badge/AI-pandas-informational?style=flat&logo=pandas&logoColor=white&color=00cc7f)
+![](https://img.shields.io/badge/AI-NetworkX-informational?style=flat&logo=NetworkX&logoColor=white&color=00cc7f)
+![](https://img.shields.io/badge/AI-StellarGraph-informational?style=flat&logo=StellarGraph&logoColor=white&color=00cc7f)
 
 ![](https://img.shields.io/badge/Tool-Android_Studio-informational?style=flat&logoColor=white&color=fffa36)
 ![](https://img.shields.io/badge/Tool-Visual_Studio-informational?style=flat&logoColor=white&color=fffa36)
