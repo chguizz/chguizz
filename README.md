@@ -30,4 +30,9 @@ Hi, I'm Chiara, a student of the University of Padua. I'm graduating in the mast
 ![](https://img.shields.io/badge/Tool-Android_Studio-informational?style=flat&logoColor=white&color=fffa36)
 ![](https://img.shields.io/badge/Tool-Visual_Studio-informational?style=flat&logoColor=white&color=fffa36)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chguizz&theme=dark"/> <img align="center" src="https://github-readme-stats.vercel.app/api//?username=chguizz&theme=dark"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chguizz&theme=dark"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api//?username=chguizz&theme=dark"/>
+</a>
