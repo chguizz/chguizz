@@ -10,7 +10,8 @@ Hi, I'm Chiara, a student of the University of Padua and currently graduating in
 ![](https://img.shields.io/badge/Code-IPython-informational?style=flat&logo=Python&logoColor=white&color=346cad)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=346cad)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=346cad)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Matlab&logoColor=white&color=346cad) 
+![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Matlab&logoColor=white&color=346cad)
+![](https://img.shields.io/badge/Code-ROS-informational?style=flat&logo=ROS&logoColor=white&color=346cad)
 
 ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=SQL&logoColor=white&color=00acd1)
 ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logoColor=white&color=00acd1)
